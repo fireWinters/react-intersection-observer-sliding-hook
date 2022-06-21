@@ -1,0 +1,19 @@
+{
+  "name": "react-intersection-observer-sliding-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fireWinters/react-intersection-observer-sliding-hook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fireWinters/react-intersection-observer-sliding-hook/issues"
+  },
+  "homepage": "https://github.com/fireWinters/react-intersection-observer-sliding-hook#readme"
+}
